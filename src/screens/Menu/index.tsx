@@ -18,6 +18,12 @@ export function Menu() {
   const Nitrogenio = () => {
     navigation.navigate('npk')
   }
+  const Seco = () => {
+    navigation.navigate('seco')
+  }
+  const Temperatura = () => {
+    navigation.navigate('temperatura')
+  }
 
   const alerta = () => {
     alert('Em breve')
@@ -39,11 +45,11 @@ export function Menu() {
           <TextInButton>Solo pobre em NPK</TextInButton>
           <Seta />
         </Buttons>
-        <Buttons>
+        <Buttons onPress={Seco}>
           <TextInButton>Solo Seco</TextInButton>
           <Seta />
         </Buttons>
-        <Buttons>
+        <Buttons onPress={Temperatura}>
           <TextInButton>Temperatura do solo</TextInButton>
           <Seta />
         </Buttons>
