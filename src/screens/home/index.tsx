@@ -1,13 +1,14 @@
-import { Loading } from '../../components/Loading'
-import { HomeContainer, HomeWrapper, Title } from './styles'
+import { HomeContainer, Title, Imagem, Buttons, TextInButton } from './styles'
+import Logo from '../../assets/Arvore_logo.png'
 
 export function Home() {
   return (
     <HomeContainer>
-      <Title>Hello World!</Title>
-      <HomeWrapper>
-        <Loading />
-      </HomeWrapper>
+      <Title>Solo-Port</Title>
+      <Imagem source={Logo} />
+      <Buttons>
+        <TextInButton>Clique aqui</TextInButton>
+      </Buttons>
     </HomeContainer>
   )
 }
