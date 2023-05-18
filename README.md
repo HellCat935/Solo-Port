@@ -4,7 +4,7 @@
 
 - 	O projeto Solo-Port foi concebido com a ideia de proporcionar, aos agricultores na Ilha de Cotijuba, maior acessibilidade às informações técnicas sobre o seu próprio solo, dependendo de seus próprios conhecimentos empíricos, achismo, e até mesmo sorte para ter sucesso com o seu cultivo. 
 
-- ![]([https://pandao.github.io/editor.md/examples/images/4.jpg](https://cdn.discordapp.com/attachments/524749551526084620/1108591816061763624/11fbfaca-0ba2-4195-8bc8-757327bfad45.jpeg))
+- ![](https://pandao.github.io/editor.md/examples/images/4.jpg](https://cdn.discordapp.com/attachments/524749551526084620/1108591816061763624/11fbfaca-0ba2-4195-8bc8-757327bfad45.jpeg)
 
 ## Integrantes 
 
