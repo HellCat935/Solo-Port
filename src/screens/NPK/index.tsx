@@ -27,20 +27,29 @@ export function Nitrogenio() {
       <ImagemFloresta source={Floresta} />
       <FundoExplorar>
         <Texto>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
-          posuere, nisl eu auctor consequat, nunc felis maximus nunc, eu
-          tincidunt magna mi sed est. Maecenas sit amet lacus purus.
+          NPK é composto de três elementos essenciais para o desenvolvimento de
+          toda a cultura: o nitrogênio, o fósforo e o potássio:
         </Texto>
         <Texto>
-          Nulla luctus at quam eu porta. Pellentesque blandit quam nisi, eu
-          cursus felis sollicitudin non. Cras placerat condimentum enim, ut
-          imperdiet dolor pharetra non. Phasellus ultricies risus sed nunc
-          faucibus scelerisque.
+          Para a correção de um solo pobre nesses nutientes, faz necessário a
+          aplicação de um Adubo NPK. Atualmente no mercado existem 2 tipos:
+        </Texto>
+        <Texto>-o granulado</Texto>
+        <Texto>-o líquido.</Texto>
+        <Texto>
+          Adubo NPK líquido: O adubo NPK líquido é absorvido com mais rapidez
+          pelas plantas. Assim, é mais utilizado em casos nos quais o solo é
+          extremamente pobre, com grande carência de nutrientes.
         </Texto>
         <Texto>
-          Cras interdum quam eget elit laoreet sagittis. Quisque efficitur, arcu
-          commodo varius posuere, metus tortor posuere dolor, ac accumsan arcu
-          elit eu tortor.
+          Sua aplicação pode ser feita diretamente nas raízes, no próprio solo e
+          também nas folhas. Eles apresentam concentração mais baixa que os
+          adubos granulados.
+        </Texto>
+        <Texto>
+          Adubo NPK granulado: O adubo NPK granulado tem liberação mais lenta,
+          com os grãos no solo que levam mais tempo para se dissolverem e serem
+          incorporados à terra.
         </Texto>
         <SoloImagem source={Solo} />
       </FundoExplorar>

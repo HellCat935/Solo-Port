@@ -27,20 +27,21 @@ export function Temperatura() {
       <ImagemFloresta source={Floresta} />
       <FundoExplorar>
         <Texto>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
-          posuere, nisl eu auctor consequat, nunc felis maximus nunc, eu
-          tincidunt magna mi sed est. Maecenas sit amet lacus purus.
+          A temperatura do solo é extremamente importante para um bom plantio,
+          aqui vão algumas dicas para mudar a temperatura do solo ao seu favor:
         </Texto>
         <Texto>
-          Nulla luctus at quam eu porta. Pellentesque blandit quam nisi, eu
-          cursus felis sollicitudin non. Cras placerat condimentum enim, ut
-          imperdiet dolor pharetra non. Phasellus ultricies risus sed nunc
-          faucibus scelerisque.
+          -Você pode colocar canteiros próximos a paredes e muros. Os tijolos
+          vão absorver o calor durante o dia e aquecer as plantas durante a
+          noite
         </Texto>
         <Texto>
-          Cras interdum quam eget elit laoreet sagittis. Quisque efficitur, arcu
-          commodo varius posuere, metus tortor posuere dolor, ac accumsan arcu
-          elit eu tortor.
+          -Crie armações para fazer sombra no seu solo, caso queira resfriá-lo
+        </Texto>
+        <Texto>
+          -Para esfriar o solo, você pode adicionar uma cobertura de matéria
+          orgânica seca, que dificultará com que o sol incida diretamente no
+          solo, diminuindo a retenção de calor
         </Texto>
         <SoloImagem source={Solo} />
       </FundoExplorar>

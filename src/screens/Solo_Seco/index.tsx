@@ -27,20 +27,18 @@ export function Seco() {
       <ImagemFloresta source={Floresta} />
       <FundoExplorar>
         <Texto>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
-          posuere, nisl eu auctor consequat, nunc felis maximus nunc, eu
-          tincidunt magna mi sed est. Maecenas sit amet lacus purus.
+          Um solo seco é aquele que não retém água por muito tempo, seja por
+          causa do clima da região ou por causa da composição do solo. Para
+          identificar um solo seco, basta observar a aparência da terra: se ela
+          estiver rachada e sem umidade aparente, é provável que seja um solo
+          seco.
         </Texto>
         <Texto>
-          Nulla luctus at quam eu porta. Pellentesque blandit quam nisi, eu
-          cursus felis sollicitudin non. Cras placerat condimentum enim, ut
-          imperdiet dolor pharetra non. Phasellus ultricies risus sed nunc
-          faucibus scelerisque.
-        </Texto>
-        <Texto>
-          Cras interdum quam eget elit laoreet sagittis. Quisque efficitur, arcu
-          commodo varius posuere, metus tortor posuere dolor, ac accumsan arcu
-          elit eu tortor.
+          A irrigação é essencial para manter as plantas saudáveis em solos
+          secos. Uma técnica eficiente é a irrigação por gotejamento, que
+          permite uma distribuição uniforme da água no solo. Outra opção é o uso
+          de mangueiras porosas, que liberam água lentamente e evitam o
+          desperdício.
         </Texto>
         <SoloImagem source={Solo} />
       </FundoExplorar>

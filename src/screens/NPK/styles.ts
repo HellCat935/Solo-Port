@@ -1,6 +1,6 @@
 import styled from 'styled-components/native'
 
-export const HomeContainer = styled.View`
+export const HomeContainer = styled.ScrollView`
   flex: 1;
   background-color: #98fb98;
 `
@@ -12,7 +12,7 @@ export const Title = styled.Text`
   font-size: 25px;
   font-family: ${({ theme }) => theme.fonts.body};
   position: absolute;
-  left: 22%;
+  left: 20%;
   margin-top: 17%;
   font-weight: bold;
   color: black;
