@@ -1,6 +1,20 @@
-## TEMPLATE REACT NATIVE + STYLED COMPONENTS
+## Solo-port
+  
+- Soloport é uma alternativa de baixo custo para garantir a qualidade do solo para plantio, assim visando auxiliar principalmente os pequenos produtores rurais que podem não possuir os recursos necessários para fazer uma análise laboratorial sazonal. O serviço consiste de duas partes que funcionam em conjunto: a caixa e o aplicativo, sendo possível sua comunicação através de sinais de Bluetooth. A caixa Soloport inclui sensores de temperatura, humidade e de NPK conectados a um controlador ESP32 e um display LCD, permitindo verificar as informações coletadas; sendo possível também conectar-se ao aplicativo Soloport. O aplicativo inclui diferentes configurações de solo e de plantio para melhor definir os problemas encontrados no solo e fazer sugestões de possíveis remediações.
 
-> .
+- 	O projeto Solo-Port foi concebido com a ideia de proporcionar, aos agricultores na Ilha de Cotijuba, maior acessibilidade às informações técnicas sobre o seu próprio solo, dependendo de seus próprios conhecimentos empíricos, achismo, e até mesmo sorte para ter sucesso com o seu cultivo. 
+
+- ![](https://cdn.discordapp.com/attachments/524749551526084620/1108591816061763624/11fbfaca-0ba2-4195-8bc8-757327bfad45.jpeg)
+
+## Integrantes 
+
+
+- Fábio De Oliveira Monteiro,
+- Fernando Yokoyama Longhi Bastos,
+- Matheus Henrique Barbosa Leão,
+- Roberto Bezerra de Castro
+- João Paulo Bastos Beltrão da Silva
+
 
 ## Installing / Getting started
 
